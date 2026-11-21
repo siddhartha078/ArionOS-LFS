@@ -4,8 +4,8 @@ ArionOS is a custom Linux From Scratch system built following the LFS 12.4 (SysV
 
 ## System profile
 
-- Distribution ID: ArionFS
-- Release: 12.4 (misfittheory)
+- Distribution ID: ArionOS
+- Release: 12.4
 - Kernel version: 6.16.1
 - Init system: SysVinit 3.14
 - Root partition: `/dev/nvme0n1p7`
