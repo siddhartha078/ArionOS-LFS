@@ -1,6 +1,6 @@
-# ArionFS: Linux From Scratch 12.4
+# ArionOS: Linux From Scratch 12.4
 
-ArionFS is a custom Linux From Scratch system built following the LFS 12.4 (SysVinit) specification. This repository contains the configurations, patches, and package manifests needed to reproduce and maintain the installation.
+ArionOS is a custom Linux From Scratch system built following the LFS 12.4 (SysVinit) specification. This repository contains the configurations, patches, and package manifests needed to reproduce and maintain the installation.
 
 ## System profile
 
