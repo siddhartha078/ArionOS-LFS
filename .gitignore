@@ -1,0 +1,33 @@
+# Source archives
+*.tar.*
+*.tgz
+*.txz
+*.zip
+*.iso
+
+# Object files and libraries
+*.o
+*.ko
+*.so
+*.a
+
+# Kernel binaries and maps
+vmlinuz*
+initramfs*
+System.map*
+
+# Build artifacts
+build/
+dist/
+rootfs/
+
+# System secrets and host keys
+*shadow*
+ssh_host_*_key
+ssh_host_*_key.pub
+
+# Temporary files and logs
+*~
+*.swp
+*.log
+!build-summary.log

@@ -1,0 +1,6 @@
+# Begin /etc/sysconfig/console
+
+KEYMAP="us"
+FONT="LatArCyrHeb-16"
+
+# End /etc/sysconfig/console

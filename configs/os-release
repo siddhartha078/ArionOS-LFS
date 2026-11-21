@@ -1,0 +1,7 @@
+NAME="ArionFS"
+VERSION="12.4"
+ID=lfs
+PRETTY_NAME="Linux From Scratch 12.4"
+VERSION_CODENAME="misfittheory"
+HOME_URL="https://www.linuxfromscratch.org/lfs/"
+RELEASE_TYPE="stable"
